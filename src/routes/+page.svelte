@@ -109,6 +109,10 @@
         @media screen and (max-width: 480px) {
        
         }
+        a{
+            text-decoration: none;
+            color: #415a77;
+        }
     </style>
 
 
@@ -156,19 +160,19 @@ Tham gia các câu lạc bộ không chỉ giúp học sinh phát triển kỹ n
                         <span class="highlight">🕒 Thời gian sinh hoạt:</span><br>
                         📅 Mỗi Thứ 6, từ 16:00 - 18:00<br>
                         📍 Địa điểm: sân trường<br>
-                        <button class = 'findmore'>Tìm hiểu!</button>
+                        <button class = 'findmore'><a href ='/websiteclbnts/femb'>Find more!</a></button>
                     </td>
                     <td>
                         <span class="highlight">🕒 Thời gian sinh hoạt:</span><br>
                         📅 Thứ 4 & Chủ Nhật, từ 17:00 - 19:00<br>
                         📍 Địa điểm: sân khấu trường<br>
-                        <button class = 'findmore'>Tìm hiểu!</button>
+                        <button class = 'findmore'><a href ='/websiteclbnts/media'>Find more!</a></button>
                     </td>
                     <td>
                         <span class="highlight">🕒 Thời gian sinh hoạt:</span><br>
                         📅 Mỗi Thứ 5, từ 15:30 - 17:30<br>
                         📍 Địa điểm: Phòng hội trường<br>
-                        <button class = 'findmore'>Tìm hiểu!</button>
+                        <button class = 'findmore'><a href ='/websiteclbnts/sbcrew'>Find more!</a></button>
                     </td>
                 </tr>
             </tbody>
