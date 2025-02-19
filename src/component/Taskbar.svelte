@@ -36,15 +36,20 @@
     gap: 3vw;
 
         }
-        #navlinks button{
+        #navlinks a{
             height: 2.5rem;
     padding-inline: 1.5rem;
     border-radius: 0.5rem;
-    transition:0.2s;
-    font-size:1rem;
-    color:white;
+    transition: 0.2s;
+    font-size: 1rem;
+    color: white;
+    display: flex
+;
+    align-items: center;
+    text-decoration: none;
+    font-weight: bold;
         }
-        #navlinks button:hover{
+        #navlinks a:hover{
             scale:1.05;
             opacity: 0.9;
 
@@ -75,9 +80,9 @@
     </a>
 
 <div id="navlinks">
-    <button on:click ={()=>{openLink('/femb')}} style = 'background-color:#FDB5D7'>FEMB</button>
-    <button on:click ={()=>{openLink('/media')}} style = 'background-color:#5CE1E6'>NTS Media</button>
-    <button on:click ={()=>{openLink('/sbcrew')}} style = 'background-color:#9996E7'>S&B Crew</button>
+    <a href = '/femb' style = 'background-color:#FDB5D7'>FEMB</a>
+    <a href = '/media' style = 'background-color:#5CE1E6'>NTS Media</a>
+    <a href = '/sbcrew' style = 'background-color:#9996E7'>S&B Crew</a>
 
 </div>
 </nav>
