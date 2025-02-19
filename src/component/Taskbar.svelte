@@ -74,7 +74,7 @@
 
 <nav>
   
-    <a href = 'websiteclbnts/' id = 'logo'>
+    <a href = '/websiteclbnts' id = 'logo'>
         <img src = 'images/logo.png'>
         <p>Trường THPT Nguyễn Trân</p>
     </a>

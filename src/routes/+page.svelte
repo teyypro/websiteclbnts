@@ -46,7 +46,7 @@
      
 
         #background_header{
-            background-image: url('images/ntscloub.jpg');
+            background-image: url('https://teyypro.github.io/websiteclbnts/images/ntscloub.jpg');
     background-size: cover;
     background-repeat: none;
     background-position: center center;
