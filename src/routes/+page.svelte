@@ -196,7 +196,7 @@ Tham gia các câu lạc bộ không chỉ giúp học sinh phát triển kỹ n
         <div class="footer">
             📞 <b>Liên hệ:</b> 0123 456 789 | ✉ <b>Email:</b> clb@nguyentran.edu.vn<br>
             🌍 <b>Website:</b> <a href="#">www.nguyentran.edu.vn/clb</a><br>
-            👨‍💻 <b>Creators:</b> Kiều Oanh, Tú Quyên, Vũ Luân, Kim Hân, Thiên Hương 12A4
+            👨‍💻 <b>Creators:</b> Kiều Oanh, Tú Quyên, Vũ Luân, Kim Hân, Thiên Hương, Phi Quý, Công Huyền, Huỳnh Thi 12A4
         </div>
     </main>
 
