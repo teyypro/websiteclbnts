@@ -80,9 +80,9 @@
     </a>
 
 <div id="navlinks">
-    <a href = 'websiteclbnts/femb' style = 'background-color:#FDB5D7'>FEMB</a>
-    <a href = 'websiteclbnts/media' style = 'background-color:#5CE1E6'>NTS Media</a>
-    <a href = 'websiteclbnts/sbcrew' style = 'background-color:#9996E7'>S&B Crew</a>
+    <a href = '/websiteclbnts/femb' style = 'background-color:#FDB5D7'>FEMB</a>
+    <a href = '/websiteclbnts/media' style = 'background-color:#5CE1E6'>NTS Media</a>
+    <a href = '/websiteclbnts/sbcrew' style = 'background-color:#9996E7'>S&B Crew</a>
 
 </div>
 </nav>
