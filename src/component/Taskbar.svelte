@@ -75,9 +75,9 @@
     </a>
 
 <div id="navlinks">
-    <button on:click ={()=>{openLink('websiteclbnts/femb')}} style = 'background-color:#FDB5D7'>FEMB</button>
-    <button on:click ={()=>{openLink('websiteclbnts/media')}} style = 'background-color:#5CE1E6'>NTS Media</button>
-    <button on:click ={()=>{openLink('websiteclbnts/sbcrew')}} style = 'background-color:#9996E7'>S&B Crew</button>
+    <button on:click ={()=>{openLink('/femb')}} style = 'background-color:#FDB5D7'>FEMB</button>
+    <button on:click ={()=>{openLink('/media')}} style = 'background-color:#5CE1E6'>NTS Media</button>
+    <button on:click ={()=>{openLink('/sbcrew')}} style = 'background-color:#9996E7'>S&B Crew</button>
 
 </div>
 </nav>
