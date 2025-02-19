@@ -1,3 +1,8 @@
+<script>
+    function openLink(url) {
+        window.open(url);
+    }
+</script>
 <style>
      @media screen and (max-width: 768px) {
             #logo p {
