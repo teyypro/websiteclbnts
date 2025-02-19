@@ -1,12 +1,21 @@
 
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
+@keyframes appear {
+from {
+opacity: 0;
+scale:0.5;
+
+}
+to {
+opacity: 1;
+scale: 1;
+}
+}
+* {
+animation: appear linear;
+animation-timeline: view();
+animation-range: entry 0%;
+}
         /* Header */
         .header {
             background-color: #0D47A1;

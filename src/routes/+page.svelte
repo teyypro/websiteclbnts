@@ -1,5 +1,20 @@
 <style>
+@keyframes appear {
+from {
+opacity: 0;
+scale:0.5;
 
+}
+to {
+opacity: 1;
+scale: 1;
+}
+}
+* {
+animation: appear linear;
+animation-timeline: view();
+animation-range: entry 0%;
+}
         h1 {
             font-size: 2.5rem;
     text-align: center;
